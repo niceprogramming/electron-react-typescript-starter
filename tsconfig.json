@@ -1,0 +1,22 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "outDir": "./dist",
+    "strict": true,
+
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "es2017",
+    "sourceMap": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUnusedLocals": true,
+    "allowSyntheticDefaultImports": true,
+    "strictNullChecks": false,
+    "noUnusedParameters": true,
+    "noImplicitAny": false,
+    "removeComments": true,
+    "jsx": "react",
+    "allowJs": true
+  }
+}
